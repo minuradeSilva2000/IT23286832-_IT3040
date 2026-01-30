@@ -1,5 +1,5 @@
 {
-  "name": "it23615434",
+  "name": "it23286832",
   "version": "1.0.0",
   "description": "singlish translator",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "test:excel": "npx playwright test tests/excel-functional.spec.js",
     "report": "npx playwright show-report"
   },
-  "author": "it23615434",
+  "author": "it23286832",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.58.0",
